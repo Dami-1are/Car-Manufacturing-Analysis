@@ -14,6 +14,8 @@
 
 A comprehensive dashboard for monitoring and analyzing key metrics in car manufacturing processes. This dashboard provides real-time insights into  sales performance, geographic trends, and pricing strategies, making it a powerful tool for decision-making, helping stakeholders make data-driven decisions to optimize manufacturing workflows.
 
+![Screenshot 2025-01-15 110855](https://github.com/user-attachments/assets/c6bc6d94-4869-4dc3-b949-17c57c843177)
+
 
 ### Objectives
 -  Total Sales by Brand
